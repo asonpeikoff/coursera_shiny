@@ -1,6 +1,6 @@
 ## File: ui.R
 ## Desc: This is the ui of my Coursera class project shiny app
-## Copyright: (c) 2014, Jason D. Miller
+## Copyright: (c) 2014, Ason Peikoff
 
 library(shiny)
 
@@ -1112,7 +1112,7 @@ shinyUI(
                  p(), "Note that all tags are not currently used in the model, 
                  though this will change in future versions of the algorithm.",
                  br(), "Have fun!", p(), "My blog: http://hack-r.com",
-                 br(), "My Github: http://github.com/hack-r",
+                 br(), "My Github: http://github.com/asonpeikoff",
                  br(), "My Github.io: http://hack-r.github.io"),
         tabPanel("Results", h2("Based on your input, SO Answer predictor predicts that you will receive "),
                  h2(textOutput("results")),

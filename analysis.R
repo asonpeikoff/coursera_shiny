@@ -1,6 +1,6 @@
 ## File: analysis.R
 ## Desc: This is the pre-made analysis 
-## Copyright: (c) 2014, Jason D. Miller
+## Copyright: (c) 2014, Ason Peikoff
 
 # Libraries ---------------------------------------------------------------
 require(caret)

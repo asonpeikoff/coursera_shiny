@@ -1,6 +1,6 @@
 ## File: server.R
 ## Desc: This is the server script of my Coursera class project shiny app
-## Copyright: (c) 2014, Jason D. Miller
+## Copyright: (c) 2014, Ason Peikoff
 
 # Libraries
 require(data.table)
